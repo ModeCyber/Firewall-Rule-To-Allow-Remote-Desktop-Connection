@@ -1,6 +1,6 @@
 # Windows Firewall Configuration
 
-This repository contains instructions for configuring firewall rules in Windows and retrieving firewall profile configurations using PowerShell.
+This repository contains instructions for configuring firewall rules in Windows set to allow remote desktop connection and retrieving firewall profile configurations using PowerShell.
 
 ## Configure a Firewall Rule in Windows
 
